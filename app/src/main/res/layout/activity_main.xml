@@ -14,13 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="Pedro de Souza Almeida"
-            android:gravity="center"
-            android:textColor="@color/white"
-            android:textSize="20sp" />
+
 
         <com.google.android.material.appbar.MaterialToolbar
             android:layout_width="match_parent"
